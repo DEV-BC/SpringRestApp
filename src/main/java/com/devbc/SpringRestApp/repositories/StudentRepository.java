@@ -1,6 +1,6 @@
-package com.devbc.SpringRestApp;
+package com.devbc.SpringRestApp.repositories;
 
-import com.devbc.SpringRestApp.models.Student;
+import com.devbc.SpringRestApp.entities.Student;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

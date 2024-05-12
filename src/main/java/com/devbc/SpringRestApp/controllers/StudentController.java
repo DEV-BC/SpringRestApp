@@ -1,6 +1,7 @@
-package com.devbc.SpringRestApp;
+package com.devbc.SpringRestApp.controllers;
 
-import com.devbc.SpringRestApp.models.Student;
+import com.devbc.SpringRestApp.entities.Student;
+import com.devbc.SpringRestApp.repositories.StudentRepository;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 
